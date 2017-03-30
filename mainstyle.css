@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+body {
+	font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana," sans-serif";
+	background-color: #fff6d3;
+}
+
+h1 {
+	position: fixed;
+	top: -20px;
+	left: 0px;
+	width: 100%;
+	background-image: url(BeachVolleyball/headerpic.jpg);
+	background-size: 100%;
+}
+
+#logo {
+	width: 36pc;
+	margin-top: 35px;
+	margin-left: 1.9pc;
+}
+
+#page {
+	margin-top: 50px;
+}
+
+#main {
+	float: left;
+	background-color: #ffa551;
+	margin-top: 189px;
+	margin-left: 4%;
+	width: 68%;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 31px;
+	padding-bottom: 10px;	
+}
+
+#nav {
+	top: 240px;
+	right: 0px;
+	background-color: #ff7221;
+	margin-right: -10px;
+	position: fixed;
+	width: 22%;
+	text-align: center;
+}
+
+#nav ul {
+	list-style-type: none;
+}
+
+#nav li {
+	padding: 30px;
+}
+
+a {
+	text-decoration: none;
+	text-decoration-color: black;	
+}
+
+#links li {
+	list-style-type: none;
+	padding: 5px;
+}
+
+#contact li {
+	list-style-type: none;
+	margin-left: -30px;
+}
+
+#img { 
+	pointer-events: none;
+	position: fixed;
+	top: 580px;
+	right: 60px;
+	width: 18%;
+	border: solid 2px #FBC765;
+}
+
+#cgroup {
+	padding: 5px;
+	background-color:grey;
+	padding-left: 20px;
+	width: 35%
+}
