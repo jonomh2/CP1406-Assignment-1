@@ -10,7 +10,7 @@ body {
 	top: -20px;
 	left: 0px;
 	width: 100%;
-	background-image: url(BeachVolleyball/headerpic.jpg);
+	background-image: url(images/headerpic.jpg);
 	background-size: 100%;
 }
 
@@ -184,6 +184,10 @@ a {
 	margin-left: 30px;
 	-webkit-box-shadow: 0px 0px 21px -2px;
 	box-shadow: 0px 0px 21px -2px;
+}
+
+#sutext {
+    margin-left: 25px;
 }
 
 #signupform {
